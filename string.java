@@ -1,12 +1,6 @@
-public class Happy {
+public class string {
     public static void main(String[] args) {
-        System.out.println("Hello Students");
-        int t = 10;
-        double y = 10.5;
-        float f = 1.46573869F;
-        long l = 174865374809L;
-        char c = '&';
-        System.out.println(c);
+
         String str = "hello world";
 
         System.out.println(str.toUpperCase());
