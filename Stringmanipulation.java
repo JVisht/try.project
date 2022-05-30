@@ -1,4 +1,4 @@
-public class string {
+public class Stringmanipulation {
     public static void main(String[] args) {
 
         String str = "hello world";
@@ -25,7 +25,7 @@ public class string {
         int daughterage = 4;
         boolean kids = Boolean.parseBoolean("   true");
         String feelings = "   I love my kids so much";
-        System.out.print(sonName+daughtersName+sonage
+        System.out.println(sonName+daughtersName+sonage
                 +"  "+daughterage+kids+feelings);
 
     }

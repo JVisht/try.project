@@ -18,10 +18,10 @@
 
          if (age > 20) {
              if (gender == "F") {
-                 System.out.print("this lady is an adult");
+                 System.out.println("This lady is an adult.");
              } else if (gender == "M") {
              }
-             System.out.print("this guy is an adult");
+             System.out.print("This guy is an adult.");
 
 
          }
